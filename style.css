@@ -6,6 +6,6 @@
   canvas#canvas {
     display: block;
     background: #360033;
-    background: -webkit-linear-gradient(to bottom, #123121, #afedaf);
-    background: linear-gradient(to bottom, #123121, #afedaf); 
+    background: -webkit-linear-gradient(to bottom, rgb(11, 135, 147), rgb(54, 0, 51));
+    background: linear-gradient(to bottom, rgb(11, 135, 147), rgb(54, 0, 51)); 
   }
